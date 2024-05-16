@@ -21,6 +21,6 @@
 function () { 
     var e = document.createElement("script"); 
     e.type = "text/javascript"; 
-    e.src = "https://cdn.jsdelivr.net/gh/indexsc/libs/min.js"; 
+    e.src = "https://cdn.jsdelivr.net/gh/indexsc/libs/slim.js"; 
     document.body.appendChild(e); 
 }();
